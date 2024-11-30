@@ -1,6 +1,7 @@
 import './App.css'
 import Hero from './Hero'
 import Navbar from './Navbar'
+import Features from './Features'
 
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
     <>
     <Navbar />
     <Hero />
+    <Features />
     
     </>
   )
