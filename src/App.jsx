@@ -2,6 +2,7 @@ import './App.css'
 import Hero from './Hero'
 import Navbar from './Navbar'
 import Features from './Features'
+import Title from './Title'
 
 
 function App() {
@@ -11,6 +12,11 @@ function App() {
     <Navbar />
     <Hero />
     <Features />
+    <Title />
+    
+
+
+
     
     </>
   )
