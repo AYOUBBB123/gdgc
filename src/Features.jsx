@@ -7,8 +7,8 @@ import Feature from './Feature';
 
 
 const Features = () => {
-  return (
-    <div className='flex flex-wrap justify-evenly space-x-0   py-8 px-6 '>
+  return ( 
+    <div className='flex flex-wrap justify-evenly space-x-3 border-b-[0.7px] border-[#C7C7C7]    py-4 px-6 '>
 
    <Feature
    name="Web Devlopment"
