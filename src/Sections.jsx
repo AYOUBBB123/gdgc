@@ -18,7 +18,7 @@ const Sections = () => {
 
       />
        <Section 
-      flex="flex-row-reverse"
+            flex="flex-row-reverse"
       image={Image2}
         span="Lorem Ipsum "
       h1= "is simply dummy text of the printing. "
