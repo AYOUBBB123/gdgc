@@ -3,7 +3,7 @@ import React from 'react'
 
 const Section = ({flex,image,span,h1,text}) => {
   return (
-    <div className={`flex flex-col-reverse lg:${flex} justify-between  items-center px-4 lg:px-12  py-4 `}>
+    <div className={`flex flex-col-reverse lg:${flex} justify-between  items-center px-4 lg:px-14  py-4 `}>
      
 
         <div className='w-full text-center  lg:w-[30%] lg:text-left  '>
